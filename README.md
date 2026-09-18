@@ -5,8 +5,9 @@ Skills
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL (MySQL)
 - Power BI
-- Excel
-- Google Looker Studio
+- Microsoft Excel
+- Data Studio
+- Tableau
 
 Featured Projects
 - Sephora E-Commerce Sales Dashboard — Power BI
