@@ -13,3 +13,4 @@ Featured Projects
 - Sephora E-Commerce Sales Dashboard — Power BI
 - IPL Player Performance Analysis — Python
 - Spotify Trending Songs Analysis — Python
+- Hotel Booking Analysis - Tableau
